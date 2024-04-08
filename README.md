@@ -1,6 +1,6 @@
 # Label Propagation for Zero-shot Classification with Vision-Language Models
 
-This repository contains the code for the paper Vladan Stojnić, Yannis Kalantidis, Giorgos Tolias, "Label Propagation for Zero-shot Classification with Vision-Language Models", In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
+This repository contains the code for the paper Vladan Stojnić, Yannis Kalantidis, Giorgos Tolias, ["Label Propagation for Zero-shot Classification with Vision-Language Models"](http://arxiv.org/abs/2404.04072), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
 ## Setup
 
